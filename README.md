@@ -1,6 +1,6 @@
 # The House that Jack Built
 
-This code example comes from the second half of [Sandi Metz' talk: Nothing in Something](https://www.youtube.com/watch?v=29MAL8pJImQ), which starts at minute 17 of the video.
+This code example comes from the [second half of Sandi Metz' talk: Nothing in Something](https://www.youtube.com/watch?v=29MAL8pJImQ&start=1022), which starts at minute 17 of the video.
 The code examples in the video are in the Ruby programming language, this repo contains
 the TypeScript version of that code.
 
